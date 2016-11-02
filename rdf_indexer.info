@@ -5,6 +5,7 @@ dependencies[] = rdfx
 dependencies[] = search_api
 core = 7.x
 package = RDF
+version = 7.x-1.x-alpha1
 
 files[] = service.inc
 files[] = includes/callback_entity_public.inc
